@@ -6,12 +6,21 @@
 - 📫 You can reach me by **saharshaprajapati4@gmail.com**
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saharshaprajapati4-code&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharshaprajapati4-code&layout=compact&theme=tokyonight" height="180em"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saharshaprajapati4-code&show_icons=true&theme=github_dark&hide_border=true"
+    height="180em"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharshaprajapati4-code&layout=compact&theme=github_dark&hide_border=true"
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saharshaprajapati4-code&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=saharshaprajapati4-code&theme=github-dark&hide_border=true"
+  />
 </p>
 
 <h3 align="left">Connect with me:</h3>
