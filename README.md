@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **to prepare a rigorous +2 Science journey.**
 
-- 📫 How to reach me **saharshaprajapati4@gmail.com**
+- 📫 You can reach me by **saharshaprajapati4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
