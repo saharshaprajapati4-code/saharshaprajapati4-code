@@ -1,6 +1,3 @@
-<style>
-  background-color: white;
-</style>
 <h1 align="center">Hi 👋, I'm Saharsha Prajapati</h1>
 <h3 align="center">+2 Science Student And Developer</h3>
 
